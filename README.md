@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on ... Bot as saitama
+- 🔭 I’m currently working on ... Pikachu bot 
 - 🌱 I’m currently learning ... Python advance
 - 👯 I’m looking to collaborate on ... Peroboy 
 - 🤔 I’m looking for help with ... aryan bhai (guru+bhai)pranav and Lucifer 
